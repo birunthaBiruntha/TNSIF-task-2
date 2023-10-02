@@ -7,11 +7,11 @@ public class main1 extends Employeea{
 	}
 	
 	public static void main(String[]args) {
-		manager m1=new manager(201,"sana","ECE");
+		manager m1=new manager(101,"Biruntha","ECE");
 		
 		m1.display();
 		
-		Technician t1=new Technician (202,"Asha","IT");
+		Technician t1=new Technician (102,"Naviya","IT");
 		t1.display();
 	}
 
